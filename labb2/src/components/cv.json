@@ -1,0 +1,28 @@
+{
+    "arbetslivserfarenheter": [
+      {
+        "id": 1,
+        "name": "Clavister, Örnsköldsvik",
+        "description": "Sommarjobb, IT-support 28 Juni 2023 - 2 September 2023 - Praktik IT-support 17 april 2023 - 2 juni 2023"
+      },
+      {
+        "id": 1,
+        "name": "BAE, Örnsköldsvik",
+        "description": "Praktik Programmering november 2022 - december 2022"
+      }
+    ],
+    
+    "utbildningar": [
+      {
+        "id": 1,
+        "name": "Yrkeshögskola: .NET med AI-kompetens",
+        "description": "Utbildningen ger mig allt jag behöver för att vara med och utveckla framtidens IT-system. Kunskap i programmeringsspråket C# och plattformen .NET hamnar i topp över företagens kompetensbehov inom programmeringsspråk. Systemutvecklare .NET är en mycket eftertraktad utbildning och företagen i branschen har ett stort rekry­teringsbehov av yrkesrollen. Jag får kompetens inom det snabbväxande teknik­området AI (Artificiell Intelligens) som tillämpas inom allt fler områden idag."
+      },
+      {
+        "id": 2,
+        "name": "Gymnasieutbildning - Dator och kommunikationsteknik 2020 – 2023",
+        "description": "En inriktning på El- och energiprogrammet där du lär dig att arbeta med datorer, kommunikationssystem, elanläggningar och tv-nät."
+      }
+    ]
+  }
+  

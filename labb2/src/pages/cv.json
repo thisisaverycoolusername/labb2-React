@@ -1,0 +1,21 @@
+
+
+{
+  "education": [
+    {
+      "school": "School Name",
+      "degree": "Degree",
+      "fieldOfStudy": "Field of Study",
+      "startYear": 2000,
+      "endYear": 2004
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "Company Name",
+      "title": "Job Title",
+      "startYear": 2005,
+      "endYear": 2010
+    }
+  ]
+}

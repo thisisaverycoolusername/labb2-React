@@ -1,0 +1,55 @@
+.parentList {
+    display: flex;
+    justify-content: center; /* Horizontally center the content */
+    margin-bottom: 10px; /* Add margin to the bottom of the menu */
+}
+
+.childList {
+    list-style-type: none; /* Remove default list styles */
+    padding: 0; 
+    text-align: center;/* Remove default padding */
+}
+
+.childList li {
+    display: inline-block;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding-left: 20px;
+    padding-top: 5px;
+    color: white;
+}
+
+.childList li a {
+    text-decoration: none;
+    color: white;  
+}
+
+.parentList ul {
+    width: 450px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: #292929;
+    padding-left: 0%;
+    
+}
+
+* {
+    box-sizing: border-box;
+}
+
+p {
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #6439a9;
+    text-align: center;
+    padding-bottom: 20px;
+    margin-top: 0; /* Add margin to the top of the paragraph */
+}
+
+.container {
+    padding: 30px 30px; /* Adjust padding */
+    width: 100%;
+    margin: 0 auto;
+    max-width: 900px;
+}
